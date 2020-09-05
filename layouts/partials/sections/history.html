@@ -14,6 +14,10 @@
             <p>{{ .division.text1 | markdownify }}</p>
             <h5>{{ .division.date2 }}</h5>
             <p>{{ .division.text2 | markdownify }}</p>
+            {{ if .division.date3 }}
+            <h5>{{ .division.date3 }}</h5>
+            <p>{{ .division.text3 | markdownify }}</p>
+            {{ end }}
           </div>
         </div>
       </div>

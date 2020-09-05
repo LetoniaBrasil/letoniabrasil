@@ -8,11 +8,11 @@ menu:
     name: Alexander Sneiders
     identifier: sneiders
     parent: biografias
-    weight: 30
+    weight: 1
 ---
 
 > Alexander Sneiders nasceu na Letônia, sobreviveu à Segunda Guerra Mundial e encontrou no Brasil sua vocação como projetista de coberturas e estruturas de madeira para grandes vãos – um ofício em extinção.
-<!--more-->
+
 (Artigo original de [Jean Tosetto](https://www.jeantosetto.com/2014/10/sneiders.html))
 
 O Brasil é uma nação onde grandes figuras fazem sombras a outras pessoas igualmente geniais. No futebol, a fama de Pelé oculta até mesmo os louros para um craque mais tímido, como foi Ademir da Guia. E num país que tem Paulo Mendes da Rocha na Arquitetura, os brasileiros lembram-se apenas de Oscar Niemeyer. Talvez por isso, você provavelmente nunca ouviu falar de Alexander Sneiders, uma vez que sequer um diploma de arquiteto ele ostenta, mas sua experiência como projetista e construtor de grandes estruturas e coberturas de madeira é praticamente inigualável em quantidade e qualidade.

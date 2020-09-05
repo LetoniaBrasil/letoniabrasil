@@ -4,5 +4,5 @@ menu:
   sidebar:
     name: Biografias
     identifier: biografias
-    weight: 600
+    weight: 1
 ---
