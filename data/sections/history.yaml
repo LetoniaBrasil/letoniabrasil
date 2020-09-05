@@ -1,0 +1,29 @@
+section:
+  name: History
+  title: "Nossa História"
+  enable: true
+  weight: 2
+  showOnNavbar: false
+
+years:
+- division:
+    icon: "fab fa-facebook"
+    date1: 1889
+    text1:  'A Letônia era ocupada pelo Império Russo. Fugindo da perseguição, as primeiras famílias letas chegaram ao Brasil e fundaram a colônia de Rio Novo, em Santa Catarina. Outras ondas de imigração em 1890 e 1891 trazem mais colonos, espalhando a cultura leta por SC e RS.'
+    date2: 1918
+    text2:  'Durante a Primeira Guerra Mundial, a Letônia se torna um campo de batalha entre o Império Russo e a Alemanha. Com o final da guerra, a Letônia declara sua independência no dia 18 de Novembro. Mas ainda precisa lutar as tropas alemães e russas. A guerra de independência da Letônia acaba em 1920.'
+
+
+- division:
+    icon: "fab fa-facebook"
+    date1: 1922
+    text1: 'A maior onda de imigrantes letos chega ao Brasil, desta vez se estabalecendo em Varpa, no interior de São Paulo. Vários colonos também se espalham por cidades em SP e MG. Imigrações menores continuam até o ano de 1928.'
+    date2: 1940
+    text2: 'A Segunda Guerra Mundial chega à Letônia. Milhares de letos morrem na guerra ou em campos de extermínio da União Soviética ou Alemanha Nazista. No final da guerra, a Letônia ficou sob o lado Soviético da cortina de ferro. Muitos são perseguidos e poucos conseguem fugir para o exterior.'
+
+- division:
+    icon: "fab fa-facebook"
+    date1: 1979
+    text1: 'Com seu país natal ocupado, os letos que vivem no mundo livre se juntam em organizações para preservar a Cultura Leta. Entre elas nasce a ABCL (Associação Brasileira de Cultura Leta), em 26 de Maio. Seu objetivo é lutar pela liberdade da Letônia.'
+    date2: 1990
+    text2: 'No dia 04 de Maio, a Letônia declara sua independência da União Soviética. Depois de uma tentativa fracassa de invadir a Letônia livre, o regime Soviética desaba. Nas décadas seguintes, a ABCL começa a realizar eventos para reatar os jovens letos com suas raízes.'

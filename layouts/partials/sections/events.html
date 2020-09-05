@@ -1,0 +1,13 @@
+<div class="container-fluid anchor pb-5 achievements-section" id="{{ replace (lower .section.name) " " "-" }}">
+  <h1 class="text-center">{{ .section.title }}</h1>
+  
+  <div class="container">
+    <div class="row" id="gallery">
+    </div>
+  </div>
+  <div class="d-none" id="achievements-holder">
+    {{ range .events }}
+      {{ partial "sections/events/entry.html" . }}
+    {{ end }}
+  </div>
+</div>

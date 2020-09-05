@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>{{- .Site.Title -}}</title>
+    <meta name="description" content="{{ .Site.Params.description }}" />
+    {{- partial "header.html" . -}}
+    <link rel="stylesheet" href="/assets/css/sections/home.css" />
+    <link rel="stylesheet" href="/assets/css/sections/about.css" />
+    <link rel="stylesheet" href="/assets/css/sections/skills.css" />
+    <link rel="stylesheet" href="/assets/css/sections/experiences.css" />
+    <link rel="stylesheet" href="/assets/css/sections/projects.css" />
+    <link rel="stylesheet" href="/assets/css/sections/recent-posts.css" />
+    <link rel="stylesheet" href="/assets/css/sections/achievements.css" />
+    <link rel="stylesheet" href="/assets/css/sections/laima.css" />
+    {{ if .Site.GoogleAnalytics }}
+        {{ template "_internal/google_analytics_async.html" . }}
+    {{ end }}
+  </head>
+  <body data-spy="scroll" data-target="#top-navbar" data-offset="100">
+    {{- partial "navigators/navbar.html" . -}}
+    {{- partial "sections/home.html" . -}}
+
+    {{ range sort .Site.Data.sections "section.weight" }}
+        <div class="container-fluid section-holder d-flex bg-white">
+            {{- partial (printf "sections/%s.html" (replace (lower .section.name) " " "-")) . -}}
+        </div>
+    {{ end }}
+    {{- partial "footer.html" . -}}
+    {{ partial "scripts.html" . }}
+    <script src="/assets/js/itype.min.js"></script>
+    <script src="/assets/js/github-button.js"></script>
+    <script src="/assets/js/home.js"></script>
+    <script src="/assets/js/jquery.filterizr.min.js"></script>
+  </body>
+</html>

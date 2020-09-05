@@ -1,0 +1,25 @@
+section:
+  name: About
+  weight: 1
+  showOnNavbar: false
+
+titleLeft: Quem Somos?
+textLeft: ['A Associação Brasileira de Cultura Leta (ABCL) é uma organização não-governamental fundada em 1979 por descendentes de letos no Brasil. Nós somos uma equipe dedicada de voluntários que amamos a Letônia.',
+'Nosso objetivo é preservar a Cultura Leta e a História dos Letos no Brasil, ajudar os jovens letos a conhecerem suas raízes e promover a união da comunidade. Para isso, trabalhamos com diversas entidades e grupos locais.',
+'Junte-se a nós! Todo talento e esforço é bem-vindo na nossa equipe!']
+
+titleRight: O Que Fazemos?
+textRight: ['Nós temos diversos projetos para relatar a história e cultura dos letos do Brasil, como os artigos no blog e entrevistas gravadas. Nossas redes sociais também promovem turismo e divulgam notícias da Letônia.',
+'Nós também promovemos eventos próprios, como a Festa Līgo em Nova Odessa, ou participamos de outros eventos culturais. Sempre buscamos apoiar eventos realizados pelas comunidades locais.',
+'Se você também quer saber sobre a Letônia, basta perguntar para nós!']
+
+# socialTitle: Siga-nos!
+
+socialLinks:
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "#"
+
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "#"

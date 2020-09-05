@@ -1,0 +1,14 @@
+# section information
+section:
+  name: Events
+  title: Eventos
+  enable: true
+  weight: 4
+  showOnNavbar: true
+
+
+# Your achievements achievements
+events:
+- title: Fenadi Digital
+  image: images/achievements/fenadi.jpg
+  summary: O Centro Cultural Leto de Ijuí participará da Fenadi Digital 2020 (a ser anunciada)
