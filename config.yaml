@@ -1,7 +1,7 @@
 baseURL: https://andreispurim.github.io/letoniabrasil
 languageCode: en-us
 title: "Letonia Brasil"
-publishDir: "docs"
+publishDir: docs
 
 # Allow raw html in markdown file
 markup:
