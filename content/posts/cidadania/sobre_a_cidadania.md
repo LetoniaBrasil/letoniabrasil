@@ -1,6 +1,6 @@
 ---
 title: "Sobre a Cidadania"
-date: 2020-09-02
+date: 2020-04-01
 hero: /images/posts/cidadania.jpg
 gallery: true
 menu:
@@ -29,14 +29,12 @@ Leia com bastante atenção todos os itens abaixo:
 
 **6. Quais são os requisitos para eu me aplicar para a cidadania?** Há 6 processos possíveis para se aplicar para a cidadania. Eles são os seguintes:
 
-* \- Criança nascida no exterior se um ou ambos os pais forem cidadãos letões no momento do nascimento da criança
-* \- Naturalização
-* \- Exilados letos e seus descendentes
-* \- Letos e Livos
-* \- Descendentes de cidadãos letões
-* \- Restauração da cidadania
-
-<br>
+_–_ Criança nascida no exterior se um ou ambos os pais forem cidadãos letões no momento do nascimento da criança <br>
+_–_ Naturalização <br>
+_–_ Exilados letos e seus descendentes <br>
+_–_ Letos e Livos <br>
+_–_ Descendentes de cidadãos letões <br>
+_–_ Restauração da cidadania <br>
 
 Para os letos-brasileiros, os dois processos mais comuns são os de [“Exilados letos”](../exilados_letos) e [“Letos e Livos”](../letos_e_livos). Os dois processos estão traduzidos para o português, basta clicar no link. “Exilados” é o processo para descendentes de pessoas que fugiram da Letônia durante a Segunda Guerra Mundial ou Ocupação Soviética, ou seja – se ele saiu da Letônia entre 17 de junho de 1940 e 4 de maio de 1990. “Letos e Livos” é para descendentes de letos que saíram do país entre 1881 e 17 de junho de 1940.
 

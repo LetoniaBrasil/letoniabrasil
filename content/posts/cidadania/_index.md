@@ -4,5 +4,5 @@ menu:
   sidebar:
     name: Cidadania
     identifier: cidadania
-    weight: 3
+    weight: 4
 ---

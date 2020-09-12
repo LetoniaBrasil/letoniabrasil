@@ -1,11 +1,11 @@
 ---
 title: "Exilados e seus Descendentes"
-date: 2020-09-03
+date: 2020-04-03
 hero: /images/posts/cidadania.jpg
 gallery: true
 menu:
   sidebar:
-    name: Exilados e seus Descendentes
+    name: Exilados
     identifier: exilados
     parent: cidadania
     weight: 3
@@ -15,9 +15,9 @@ Traduzido para o português. Acesse a [versão do PMLP](https://www.pmlp.gov.lv/
 
 ### Um Leto Exilado é uma pessoa que atende a todos os seguintes requerimentos:
 
-1) Era cidadão da Letônia em 17 de junho de 1940 (ou é descendente de cidadão da Letônia);
-2) Fugiram da Letônia para o regime de ocupação da URSS ou da Alemanha ou foram deportados durante o período de 17 de junho de 1940 a 4 de maio de 1990;
-3) Pelas razões mencionadas no parágrafo 2, não pôde retornar à Letônia como residente permanente até 4 de maio de 1990.
+_1)_ Era cidadão da Letônia em 17 de junho de 1940 (ou é descendente de cidadão da Letônia); <br>
+_2)_ Fugiram da Letônia para o regime de ocupação da URSS ou da Alemanha ou foram deportados durante o período de 17 de junho de 1940 a 4 de maio de 1990; <br>
+_3)_ Pelas razões mencionadas no parágrafo 2, não pôde retornar à Letônia como residente permanente até 4 de maio de 1990. <br>
 
 Seus descendentes nascidos antes de 1 de outubro de 2014 podem adquirir simultaneamente a cidadania da Letônia. <br>
 Em caso de registro de cidadania leta, letos e livos podem manter sua cidadania atual [do seu país de origem]. <br>
@@ -39,9 +39,10 @@ Em caso de incerteza quanto à grafia do nome de uma pessoa no idioma leto, entr
 **6.1. Confirmação de que um requerente ou seu ancestral deixou a Letônia durante o período de 17 de junho de 1940 a 4 de maio de 1990 fugindo da URSS ou do regime de ocupação alemão ou foi deportado e, portanto, não pôde retornar à Letônia como residente permanente até 4 de maio 1990:** ([formulário de confirmação](http://www.pmlp.gov.lv/en/assets/documents/apliecinajums_3.1.docx))
 
 **6.2. Algum documento que confirme a cidadania leta em 17 de Junho de 1940:**
-* – Certidão de nascimento ou extrato do Registro de Nascimento, certidão de casamento ou extrato do registro de casamento emitido pelo Departamento do Registro Civil. 
-* – Documentos relativos ao censo de 1935, assuntos de administração tributária, assuntos de serviço militar, emitidos pelo Arquivo Nacional
-* – O passaporte do cidadão letão antes da guerra.
+
+_–_ Certidão de nascimento ou extrato do Registro de Nascimento, certidão de casamento ou extrato do registro de casamento emitido pelo Departamento do Registro Civil. <br>
+_–_ Documentos relativos ao censo de 1935, assuntos de administração tributária, assuntos de serviço militar, emitidos pelo Arquivo Nacional. <br>
+_–_ O passaporte do cidadão letão antes da guerra. <br>
 
 ### Onde Submeter Documentos
 
