@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Letonia Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andreispurim.github.io/letoniabrasil/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>E-book Ligo</title>
+      <link>https://andreispurim.github.io/letoniabrasil/posts/ebook_ligo/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreispurim.github.io/letoniabrasil/posts/ebook_ligo/</guid>
+      <description>Clique aqui para baixar o ebook</description>
+    </item>
     
   </channel>
 </rss>

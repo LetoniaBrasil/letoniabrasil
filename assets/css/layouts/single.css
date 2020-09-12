@@ -110,6 +110,22 @@ img[alt="medium center"] + em{
   font-style: italic;
 }
 
+img[alt="big center"] { 
+  width: 100%;
+  height: auto;
+  max-width: 80%;
+  border: 5px solid #e4e4e4;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img[alt="big center"] + em{
+  text-align: center;
+  display: block;
+  font-style: italic;
+}
+
 .page-content {
   width: 100%;
   position: relative;
