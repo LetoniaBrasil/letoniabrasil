@@ -28,7 +28,7 @@
           {{- range sort .Site.Data.sections "section.weight" }}
             {{ if and (.section.enable) (.section.showOnNavbar)}}
               <li class="nav-item">
-                <a class="nav-link" href="{{ site.BaseURL }}#{{ replace (lower .section.name) " " "-" }}">{{ .section.title }}</a>
+                <a class="nav-link" href="#{{ replace (lower .section.name) " " "-" }}">{{ .section.title }}</a>
               </li>
             {{ end }}
           {{- end }}
