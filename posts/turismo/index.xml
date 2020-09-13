@@ -2,21 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Turismo on Letonia Brasil</title>
-    <link>https://andreispurim.github.io/letoniabrasil/posts/turismo/</link>
+    <link>letoniabrasil.org/posts/turismo/</link>
     <description>Recent content in Turismo on Letonia Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://andreispurim.github.io/letoniabrasil/posts/turismo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="letoniabrasil.org/posts/turismo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Os 5 Palácios Mais Bonitos da Letônia</title>
+      <link>letoniabrasil.org/posts/turismo/top_5_palacios_da_letonia/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>letoniabrasil.org/posts/turismo/top_5_palacios_da_letonia/</guid>
+      <description>No artigo passado, nós falamos como o mapa da Letônia é pontilhado por centenas de castelos medievais e como você pode visita-los. Estranhamente, pouco se fala dos palácios, solares e mansões que também formam a riqueza cultural da Letônia. Neste artigo, estaremos explicando como essas construções foram pensadas, e quais você pode visitar hoje.
+Qual a diferença de um castelo para um palácio? E um solar e uma mansão? Um castelo é uma residência fortificada: isto é, além de servir como casa, ela possui uso militar e defesas, como um fosso, ponte levadiça, muralhas, enquanto um palácio é uma morada luxuosa.</description>
+    </item>
+    
+    <item>
       <title>Top 5 Castelos da Letonia</title>
-      <link>https://andreispurim.github.io/letoniabrasil/posts/turismo/top_5_castelos_da_letonia/</link>
+      <link>letoniabrasil.org/posts/turismo/top_5_castelos_da_letonia/</link>
       <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://andreispurim.github.io/letoniabrasil/posts/turismo/top_5_castelos_da_letonia/</guid>
+      <guid>letoniabrasil.org/posts/turismo/top_5_castelos_da_letonia/</guid>
       <description>A Letônia possui uma rica história medieval. Chamada de “Terra Mariana” ou “Livônia” pelos cavaleiros cristãos, a região báltica foi o último lugar na Europa a ser cristianizado. Devido à sua localização como centro de rotas de comércio entre escandinavia e leste europeu, além de ser um entrave entre o ocidente católico e oriente ortodoxo, a Letônia foi por muitos séculos um campo de batalha.
 O que são castelos? Castelos (Castellum em latim, “lugar fortificado”) são construções militares européias criadas durante a idade média para usos militares e administrativos.</description>
     </item>
