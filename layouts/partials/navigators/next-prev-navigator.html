@@ -5,7 +5,7 @@
     {{ if .Next }}
       {{ if (in site.Params.mainSections .Next.Type) }}
       <div class="col-md-6 previous-article">
-        <a href="../../../../{{.Next.Permalink }}" class="btn btn-outline-info">
+        <a href="{{.Next.Permalink }}" class="btn btn-outline-info">
           <span><i class="fas fa-chevron-circle-left"></i> Prev</span>
           <br />
           <span>{{ .Next.Title }}</span>
@@ -22,7 +22,7 @@
           {{ end }}
         {{ end}}
         <div class="{{ $columnWidth }} next-article">
-          <a href="../../../../{{ .Prev.Permalink}}" class="btn btn-outline-info">
+          <a href="{{ .Prev.Permalink}}" class="btn btn-outline-info">
             <span>Next <i class="fas fa-chevron-circle-right"></i></span>
             <br />
             <span>{{ .Prev.Title }}</span>
