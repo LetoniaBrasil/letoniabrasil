@@ -1,4 +1,11 @@
 {{ define "header" }}
+
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="{{ .Title }}" />
+<meta property="og:description" content="{{ .Summary }}" />
+<meta property="og:image" content="url({{ strings.TrimSuffix "/" .Site.BaseURL }}{{ partial "helpers/get-hero.html" . }});" />
+
 <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Title }}{{ end }}" />
 <link
   rel="stylesheet"
@@ -56,7 +63,6 @@
       <hr />
         {{ partial "navigators/next-prev-navigator.html" . }}
       <hr />
-      <!-- Add Disqus forum  -->
       {{ if .Site.DisqusShortname }}
           {{ partial "disqus.html" . }}
       {{ end }}
