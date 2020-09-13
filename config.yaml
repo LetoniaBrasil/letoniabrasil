@@ -1,5 +1,5 @@
 baseURL: letoniabrasil.org
-relativeurls: true
+relativeurls: false
 
 languageCode: en-us
 title: "Letonia Brasil"
