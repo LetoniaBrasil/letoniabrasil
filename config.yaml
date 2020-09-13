@@ -1,11 +1,10 @@
-baseURL: https://andreispurim.github.io/letoniabrasil
+baseURL: letoniabrasil.org
 relativeurls: true
 
 languageCode: en-us
 title: "Letonia Brasil"
 publishDir: docs
 
-# Allow raw html in markdown file
 markup:
   goldmark:
     renderer:
@@ -15,57 +14,24 @@ markup:
     endLevel: 6
     ordered: false
 
-# Enable Google Analytics
-# googleAnalytics: UA-XXXXXXXXX-X
+googleAnalytics: UA-2167798-10
 
-# Enable Disqus forum
-# disqusShortname: does-not-exist
 
-# Enable global emoji support
 enableEmoji: true
 
-# Custom parameters
 params:
-  # Copyright Notice
-  copyright: © 2020 Copyright.
-
-  # Meta description for your site.  This will help the search engines to find your site.
   description: Site da Associação Brasileira de Cultura Leta.
-  # background image of the landing page
   background: "images/background.jpg"
-
-  # Provide logos for your site. The inverted logo will be used in the initial
-  # transparent navbar and the main logo will be used in the non-transparent navbar.
-  # It will be default to the theme logos if not provided.
-  logo:
-    main: /assets/images/main-logo.png
-    inverted: /assets/images/inverted-logo.png
-    favicon: /assets/images/favicon.png
-
-
-  # specify whether you want to write blog post or not
   enableBlogPost: true
-
-  # specify whether you want to show Table of Contents in reading page
   enableTOC: false
-
-  # specify the list of custom menus that you want to show in the top navbar.
-  # they will be separated by a divider from the main menus.
   #customMenus:
   #- name: Notes
   #  url: https://hossainnotes.netlify.app/docs/example/
-
-  # Provide newsletter configuration. This feature hasn't been implemented yet.
-  # Currently, you can just hide it from the footer.
   newsletter:
     enable: false
 
-  # some information about you
   author:
     name: "Letonia Brasil"
     nickname: "Letonia Brasil"
     image: "images/logo.png"
-    # greeting message before your name. it will default to "Hi! I am" if not provided
     greeting: ""
-    # give your some contact information. they will be used in the footer
-    # a summary of what you do

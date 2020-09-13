@@ -5,7 +5,7 @@ hero: /images/posts/turismo/castelos/sigulda1.jpg
 gallery: true
 menu:
   sidebar:
-    name: Top 5 Castelos da Letonia
+    name: Castelos da Letonia
     identifier: 5_castelos
     parent: Turismo
     weight: 1
