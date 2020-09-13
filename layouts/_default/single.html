@@ -4,7 +4,7 @@
 <meta property="og:type" content="article" />
 <meta property="og:title" content="{{ .Title }}" />
 <meta property="og:description" content="{{ .Summary }}" />
-<meta property="og:image" content="url({{ strings.TrimSuffix "/" .Site.BaseURL }}{{ partial "helpers/get-hero.html" . }});" />
+<meta property="og:image" content="{{ .Params.hero }}" />
 
 <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Title }}{{ end }}" />
 <link
