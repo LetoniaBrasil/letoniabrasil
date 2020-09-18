@@ -3,7 +3,25 @@
   flex: 20%;
   max-width: 20%;
   /* background-color: lightsalmon; */
+
   transition: all ease-out 0.5s;
+}
+
+.sidebar-logo {
+  padding-left: 1rem;
+  position: relative;
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+  
+}
+
+#s-logo {
+  margin-top: 2rem;
+  display: block;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .sidebar-holder {
@@ -21,7 +39,7 @@
   background: #f9fafc;
   height: 100vh;
   transition: all ease-out 0.3s;
-}
+  }
 
 .sidebar-tree {
   padding-left: 1rem;

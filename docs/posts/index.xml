@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artigos on Letonia Brasil</title>
+    <link>https://letoniabrasil.org/posts/</link>
+    <description>Recent content in Artigos on Letonia Brasil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://letoniabrasil.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>E-book Ligo</title>
+      <link>https://letoniabrasil.org/posts/ebook_ligo/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://letoniabrasil.org/posts/ebook_ligo/</guid>
+      <description>Clique aqui para baixar o ebook</description>
+    </item>
+    
+  </channel>
+</rss>

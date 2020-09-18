@@ -1,0 +1,12 @@
+.laima {
+  font-family: fantasy;
+  text-align: center;
+
+}
+
+.laima:before, .laima:after { 
+	content: ""; 
+	flex: 1 1; 
+	border-bottom: 2px solid #000; 
+	margin: auto; 
+   	}
