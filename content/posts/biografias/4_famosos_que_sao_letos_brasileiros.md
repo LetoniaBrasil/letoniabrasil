@@ -49,7 +49,7 @@ Vale mencionar seu filho de Ed também está ganhando sua fama. Victor Kivitz, q
 
 # Donald Schause
 
-![medium center](/images/posts/biografias/famosos/schause.jpg)
+![medium center](/images/posts/biografias/famosos/schause.jpeg)
 
 Você tomou alguma multa por excesso de velocidade recentemente? Ótimo, então lembre de duas coisas: primeiro, tome cuidado (excesso de velocidade é uma das principais causas de morte no Brasil), e segundo, a invenção que você acabou de ver foi inventada por um Leto. Muitos não sabem, mas a Lombada Eletrônica não é só uma invenção Brasileira como é a invenção de um Leto-Brasileiro.
 
