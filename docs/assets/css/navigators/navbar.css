@@ -36,6 +36,14 @@
   margin-top: -5px;
 }
 
+#s-logo {
+    margin-top: 2rem;
+    display: block;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .navbar-collapse.show,
 .navbar-collapse.collapsing {
   background-color: #f9fafc;

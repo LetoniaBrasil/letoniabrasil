@@ -53,7 +53,7 @@ Vale mencionar seu filho de Ed também está ganhando sua fama. Victor Kivitz, q
 
 Você tomou alguma multa por excesso de velocidade recentemente? Ótimo, então lembre de duas coisas: primeiro, tome cuidado (excesso de velocidade é uma das principais causas de morte no Brasil), e segundo, a invenção que você acabou de ver foi inventada por um Leto. Muitos não sabem, mas a Lombada Eletrônica não é só uma invenção Brasileira como é a invenção de um Leto-Brasileiro.
 
-A família Šauss (Schause) chegou ao Brasil em 1917, se instalando em São José dos Campos, junto com outras famílias letas que vieram fugindo da Primeira Guerra Mundial. A família de Arvido Schause se mudou para Curitiba e iniciou um pequeno negócio de balas de banana. A empresa cresceu com a direção de seus filhos e se transformou em uma empresa de Automação Industrial. Após uma "renovação" ela passou a se chamar Perkons (Trovão, em leto)
+A família Šauss (Schause) chegou ao Brasil em 1914, se instalando em São José dos Campos, junto com outras famílias letas que vieram fugindo da Primeira Guerra Mundial. A família de Arvido Schause se mudou para Curitiba e iniciou um pequeno negócio de doce de banana. A empresa cresceu com a direção de seus filhos e se transformou em uma empresa de Automação Industrial. Após uma "renovação" ela passou a se chamar Perkons (Trovão, em leto)
 
 Após um incidente durante um passeio no começo da década de 90, Donald Schause percebeu a necessidade de um sistema mais eficiente que o velho "quebra-molas". A primeira lombada foi instalada em 1992 e o resto é história. Calcula-se que sete anos após a instalação da primeira lombada, o índice de acidentes reduziu em 40%.
 
