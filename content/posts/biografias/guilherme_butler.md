@@ -1,6 +1,7 @@
 ---
 title: "Dr. Guilherme Butler, o explorador"
 date: 2020-09-20
+draft: true
 hero: /images/posts/biografias/daina/bg.jpg
 gallery: true
 menu:

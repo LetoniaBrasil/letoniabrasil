@@ -1,6 +1,7 @@
 ---
 title: "O Que Aconteceu com os Sobrenomes Letos?"
 date: 2020-09-20
+draft: true
 hero: /images/posts/biografias/famosos/bg.png
 gallery: true
 menu:
