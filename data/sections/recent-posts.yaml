@@ -1,6 +1,7 @@
 # section information
 section:
   name: Recent Posts
+  title: "Artigos Recentes"
   enable: true
   weight: 5
   showOnNavbar: false

@@ -1,6 +1,6 @@
 baseURL: https://letoniabrasil.org/
 
-languageCode: en-us
+languageCode: pt-br
 title: "Letonia Brasil"
 publishDir: docs
 
@@ -14,8 +14,6 @@ markup:
     ordered: false
 
 googleAnalytics: UA-2167798-10
-
-
 enableEmoji: true
 
 params:
@@ -23,9 +21,6 @@ params:
   background: "images/background.jpg"
   enableBlogPost: true
   enableTOC: false
-  #customMenus:
-  #- name: Notes
-  #  url: https://hossainnotes.netlify.app/docs/example/
   newsletter:
     enable: false
 

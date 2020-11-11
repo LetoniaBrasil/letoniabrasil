@@ -42,12 +42,12 @@
             {{ $hasCustomMenus = true }}
           {{ end }}
         {{ end }}
-        {{ if (or site.Params.enableBlogPost $hasCustomMenus) }}
+        <!-- {{ if (or site.Params.enableBlogPost $hasCustomMenus) }}
           <div class="dropdown-divider" id="top-navbar-divider"></div>
-        {{ end }}
+        {{ end }} -->
         {{ if site.Params.enableBlogPost }}
           <li class="nav-item">
-            <a class="nav-link" id="blog-link" href="/posts">Posts</a>
+            <a class="nav-link" id="blog-link" href="/posts">Artigos</a>
           </li>
         {{ end }}
         {{ range site.Params.customMenus }}
