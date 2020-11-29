@@ -7,7 +7,7 @@ menu:
   sidebar:
     name: 4 Famosos
     identifier: famosos
-    parent: biografias
+    parent: curiosidades
     weight: 1
 ---
 
